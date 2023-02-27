@@ -19,7 +19,7 @@ Repo to demonstrate Laundry App UI in Android app. This is a follow up on the so
 Demo App
 
 <img src="https://i.imgur.com/EMFsL6f.png" alt="cover page">
-<img src="" alt="img 2">
+<img src="https://i.imgur.com/OfFdeWj.png" alt="img 2">
 <img src="" alt="Alt Text">
 <img src="" alt="Alt Text">
 <img src="" alt="Alt Text">
